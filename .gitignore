@@ -1,0 +1,22 @@
+# Archivos compilados
+*.class
+bin/
+target/
+
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
